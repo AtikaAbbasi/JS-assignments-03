@@ -754,11 +754,11 @@
 //         var pair = text[i] + text[i + 1];
 
 //         switch (pair) {
-//             case "aa": case "ae": case "ai": case "ao": case "au":
-//             case "ea": case "ee": case "ei": case "eo": case "eu":
-//             case "ia": case "ie": case "ii": case "io": case "iu":
-//             case "oa": case "oe": case "oi": case "oo": case "ou":
-//             case "ua": case "ue": case "ui": case "uo": case "uu":
+
+//             case "ia": case "ie": case "au": case "oi": case "io":
+//             case "eu": case "ai": case "ea": case "ae": case "ua":
+//             case "ue": case "ui": case "ou": case "ae": case "iu":
+         
 //                 count++;
 //                 break;
 //         }
@@ -769,7 +769,7 @@
 
 
 // var text = "Pleases read this application and give me gratuity";
-// document.write(counpara(text)); 
+// console.log(counpara(text)); 
 
 
 
